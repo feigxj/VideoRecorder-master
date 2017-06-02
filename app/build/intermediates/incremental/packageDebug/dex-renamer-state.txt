@@ -1,0 +1,7 @@
+#Fri Mar 10 09:59:42 CST 2017
+base.0=E\:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5ccfcd24f3fce41e49613b5bb67946378313c99f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a4b300aa407360d67aa943a859fc8666dbaf1cf3\\classes.dex
+base.1=E\:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a4b300aa407360d67aa943a859fc8666dbaf1cf3
+file.0=E\:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5ccfcd24f3fce41e49613b5bb67946378313c99f\\classes.dex

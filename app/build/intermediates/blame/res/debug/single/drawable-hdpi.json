@@ -1,0 +1,346 @@
+[
+    {
+        "merged": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\semi_transparent.png",
+        "source": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\semi_transparent.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_text04.png",
+        "source": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\video_text04.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_dialog_normal.png",
+        "source": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\btn_dialog_normal.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\guide_focus.png",
+        "source": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\guide_focus.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icn_picture.png",
+        "source": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\icn_picture.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\guide_text.png",
+        "source": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\guide_text.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_text04.png",
+        "source": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\video_text04.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\record_icon.png",
+        "source": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\record_icon.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icn_change_view.png",
+        "source": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\icn_change_view.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\slide_bar_pressed.png",
+        "source": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\slide_bar_pressed.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button.png",
+        "source": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\button.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icn_flashlight_off.png",
+        "source": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\icn_flashlight_off.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\guide_icn_close.png",
+        "source": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\guide_icn_close.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dialog_title_bar.png",
+        "source": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\dialog_title_bar.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\guide_btn_pressed.png",
+        "source": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\guide_btn_pressed.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icn_save.png",
+        "source": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\icn_save.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icn_flashlight_on.png",
+        "source": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\icn_flashlight_on.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button.png",
+        "source": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\button.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icn_move.png",
+        "source": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\icn_move.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icn_play_big.png",
+        "source": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\icn_play_big.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\semi_transparent.png",
+        "source": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\semi_transparent.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icn_change_view_pressed.png",
+        "source": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\icn_change_view_pressed.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icn_save_pressed.png",
+        "source": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\icn_save_pressed.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\slide_bar.png",
+        "source": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\slide_bar.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icn_flashlight_off.png",
+        "source": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\icn_flashlight_off.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icn_picture_pressed.png",
+        "source": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\icn_picture_pressed.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icn_play_small.png",
+        "source": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\icn_play_small.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_lightgreen_bg_pressed.9.png",
+        "source": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\btn_lightgreen_bg_pressed.9.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icn_play_big.png",
+        "source": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\icn_play_big.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icn_video.png",
+        "source": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\icn_video.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icn_zoomin.png",
+        "source": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\icn_zoomin.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sign_video.png",
+        "source": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\sign_video.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icn_zoomin_pressed.png",
+        "source": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\icn_zoomin_pressed.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icn_save_pressed.png",
+        "source": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\icn_save_pressed.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\guide_icn_close_pressed.png",
+        "source": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\guide_icn_close_pressed.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\progress_bar_grey.9.png",
+        "source": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\progress_bar_grey.9.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\progress_bar_grey.9.png",
+        "source": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\progress_bar_grey.9.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_text02.png",
+        "source": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\video_text02.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\guide_text.png",
+        "source": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\guide_text.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_lightgreen_bg.9.png",
+        "source": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\btn_lightgreen_bg.9.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\guide_btn.png",
+        "source": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\guide_btn.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icn_play_small.png",
+        "source": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\icn_play_small.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icn_pic_delete.png",
+        "source": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\icn_pic_delete.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icn_video.png",
+        "source": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\icn_video.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icn_zoomin_pressed.png",
+        "source": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\icn_zoomin_pressed.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icn_flashlight_on.png",
+        "source": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\icn_flashlight_on.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_lightgreen_bg.9.png",
+        "source": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\btn_lightgreen_bg.9.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_text02.png",
+        "source": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\video_text02.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_text01.png",
+        "source": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\video_text01.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icn_move_pressed.png",
+        "source": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\icn_move_pressed.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icn_picture.png",
+        "source": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\icn_picture.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_darkgrey_bg_pressed.9.png",
+        "source": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\btn_darkgrey_bg_pressed.9.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\guide_focus.png",
+        "source": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\guide_focus.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_darkgrey_bg_pressed.9.png",
+        "source": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\btn_darkgrey_bg_pressed.9.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icn_pic_delete.png",
+        "source": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\icn_pic_delete.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_text01.png",
+        "source": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\video_text01.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icn_pic_choose.png",
+        "source": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\icn_pic_choose.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icn_video_pressed.png",
+        "source": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\icn_video_pressed.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\record_icon.png",
+        "source": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\record_icon.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icn_change_view.png",
+        "source": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\icn_change_view.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sign_video.png",
+        "source": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\sign_video.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_lightgreen_bg_pressed.9.png",
+        "source": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\btn_lightgreen_bg_pressed.9.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\guide_btn.png",
+        "source": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\guide_btn.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\slide_bar_pressed.png",
+        "source": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\slide_bar_pressed.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icn_picture_pressed.png",
+        "source": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\icn_picture_pressed.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\guide_icn_close_pressed.png",
+        "source": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\guide_icn_close_pressed.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\progress_bar_green.9.png",
+        "source": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\progress_bar_green.9.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\progress_bar_green.9.png",
+        "source": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\progress_bar_green.9.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icn_pic_choose.png",
+        "source": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\icn_pic_choose.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icn_video_pressed.png",
+        "source": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\icn_video_pressed.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icn_save.png",
+        "source": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\icn_save.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_text03.png",
+        "source": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\video_text03.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_text03.png",
+        "source": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\video_text03.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icn_move.png",
+        "source": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\icn_move.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_darkgrey_bg.9.png",
+        "source": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\btn_darkgrey_bg.9.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icn_zoomin.png",
+        "source": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\icn_zoomin.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icn_change_view_pressed.png",
+        "source": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\icn_change_view_pressed.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dialog_title_bar.png",
+        "source": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\dialog_title_bar.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_darkgrey_bg.9.png",
+        "source": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\btn_darkgrey_bg.9.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\slide_bar.png",
+        "source": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\slide_bar.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_dialog_normal.png",
+        "source": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\btn_dialog_normal.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\guide_btn_pressed.png",
+        "source": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\guide_btn_pressed.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icn_move_pressed.png",
+        "source": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\icn_move_pressed.png"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\guide_icn_close.png",
+        "source": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\guide_icn_close.png"
+    }
+]

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\OpenProjectCore\10.Viedo\VideoRecorder-master\app\libs\javacv.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="310927e25b52136954b65608f341dfd5e5ad9d64">
+        <dex dex="E:\OpenProjectCore\10.Viedo\VideoRecorder-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\javacv_092897952a004c0b4880cbc3a453c368d601ec4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\OpenProjectCore\10.Viedo\VideoRecorder-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="19e4a906ee30b1e8acd0146bd1d4c49b53ab9591">
+        <dex dex="E:\OpenProjectCore\10.Viedo\VideoRecorder-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a4b300aa407360d67aa943a859fc8666dbaf1cf3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android-sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\OpenProjectCore\10.Viedo\VideoRecorder-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_06f6838d042bd52b584513a72de16771f90e535b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\OpenProjectCore\10.Viedo\VideoRecorder-master\app\libs\javacpp.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ff8f2a518e524ae8de093d6556fc21a6ab8f05b2">
+        <dex dex="E:\OpenProjectCore\10.Viedo\VideoRecorder-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\javacpp_b1b19e5b905a2dba9a0e4edf07c16a449c2765d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\OpenProjectCore\10.Viedo\VideoRecorder-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="bd30aa0a0ee09f91cdee99e2bf919f8a60f63e97">
+        <dex dex="E:\OpenProjectCore\10.Viedo\VideoRecorder-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5ccfcd24f3fce41e49613b5bb67946378313c99f\classes.dex" />
+    </item>
+
+</items>

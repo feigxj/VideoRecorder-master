@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_recorder.xml",
+        "source": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\src\\main\\res\\layout\\activity_recorder.xml"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\global_dialog_tpl.xml",
+        "source": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\src\\main\\res\\layout\\global_dialog_tpl.xml"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ffmpeg_preview.xml",
+        "source": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\src\\main\\res\\layout\\activity_ffmpeg_preview.xml"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ffmpeg_preview.xml",
+        "source": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\src\\main\\res\\layout\\activity_ffmpeg_preview.xml"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_recorder_progress.xml",
+        "source": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\src\\main\\res\\layout\\activity_recorder_progress.xml"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\global_dialog_tpl.xml",
+        "source": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\src\\main\\res\\layout\\global_dialog_tpl.xml"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_recorder.xml",
+        "source": "E:\\OpenProjectCore\\10.Video_Advance\\VideoRecorder-master\\app\\src\\main\\res\\layout\\activity_recorder.xml"
+    },
+    {
+        "merged": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_recorder_progress.xml",
+        "source": "E:\\OpenProjectCore\\10.Viedo\\VideoRecorder-master\\app\\src\\main\\res\\layout\\activity_recorder_progress.xml"
+    }
+]
